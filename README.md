@@ -16,7 +16,7 @@
 |:--:|:--:|:-------:|:-----:|:---:|
 |2021.05|P-stage 3|Naver Boostcamp AI Tech|KLUE: Machine Reading Comprehension</br>(Open Domain Question Answering)|2nd Prize / 9 teams|
 |2021.04|P-stage 2|Naver Boostcamp AI Tech|KLUE: Relation Extraction|15 / 135|
-|2020.11|Big Data Competition 2020|DOUZONE BIZON,</br>National Information Society Agency (NIA)|`Topic 1`:</br>Predict sales of the next quarter by using small and medium-sized companies' sales data of 10 previous quarters</br></br>`Topic 2`:</br>Classify unlabeled small and medium-sized companies' accounting book summary text data|1st Prize</br></br>([article](https://www.mk.co.kr/news/business/view/2020/11/1131764/))|
+|2020.11|Big Data Competition 2020|DOUZONE BIZON,</br>National Information Society Agency (NIA)|`Topic 1` Predict sales of the next quarter by using small and medium-sized companies' sales data of 10 previous quarters</br></br>`Topic 2` Classify unlabeled small and medium-sized companies' accounting book summary text data|1st Prize</br></br>([article](https://www.mk.co.kr/news/business/view/2020/11/1131764/))|
 
 </br>
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
