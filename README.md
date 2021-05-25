@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=200&section=header&text=Jang%20Boyoon&desc=AI%20Engineer&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=de4d44&descSize=13&descAlign=59.8&descAlignY=45.5)
 
-<p align='center'> Hi. I'm Bo Yoon Jang.
-  <br> I'm interested in NLP and Recommender System.
-  <br> I'm currently studying at Naver BoostCamp AI Tech.
+<p align='center'>
+  <br> 🙋‍♀️
+  <br> Interested in NLP and Recommender System.
+  <br> Currently studying at Naver BoostCamp AI Tech.
   <br><br> Contact Me:
   <br> <a href="mailto:dataminegame@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
