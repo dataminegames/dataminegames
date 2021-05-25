@@ -14,10 +14,10 @@
 
 |Date|Experience|oranization|Description|
 |:--:|:--------:|:---------:|:---------:|
-|2021.01 - 2021.06|Education|Naver Boostcamp<br>AI Tech|Studied deep learning especially NLP and model compression|
-|2019.08 - 2020.02|Study|Modu Lab|Reviewed papers in Data Lab|
-|2019.08 - 2019.12|Work|Ensel|Worked as an AI Researcher for a semiconductor smart factory|
-|2018.08 - 2019.07|Education|Fast Campus<br>Data Science School|Studied machine learning, NLP, statistics, and programming skills|
+|2021.01-2021.06|Education|Naver Boostcamp<br>AI Tech|Studied deep learning especially NLP and model compression|
+|2019.08-2020.02|Study|Modu Lab|Reviewed papers in Data Lab|
+|2019.08-2019.12|Work|Ensel|Worked as an AI Researcher for a semiconductor smart factory|
+|2018.08-2019.07|Education|Fast Campus<br>Data Science School|Studied machine learning, NLP, statistics, and programming skills|
 
 <h3 align='center'>🏅 Competitions</h3>
 
