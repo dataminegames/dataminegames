@@ -1,16 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=200&section=header&text=Jang%20Boyoon&desc=AI%20Engineer&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=de4d44&descSize=13&descAlign=59.8&descAlignY=45.5)
 
-
-<h3 align='center'> 🙋‍♀️ About Me🙋‍ </h3>
-<p align='center'> I'm Bo Yoon Jang.
+<p align='center'> Hi. I'm Bo Yoon Jang.
   <br> I'm interested in NLP and Recommender System.
   <br> I'm currently studying at Naver BoostCamp AI Tech.
+  <br><br> Contact Me:
+  <br> <a href="mailto:dataminegame@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 <p align='center'>
 </br>
 
+<h3 align='center'>👩🏻‍💻 Experience</h3>
 
-<h3 align='center'>🚴 Competitions 🚴</h3>
+|Date|Experience|oranization|Description|
+|:--:|:--------:|:---------:|:---------:|
+|2021.01 - 2021.06|Education|Naver Boostcamp<br>AI Tech|Studied deep learning especially NLP and model compression|
+|2019.08 - 2020.02|Study|Modu Lab|Reviewed papers in Data Lab|
+|2019.08 - 2019.12|Work|Ensel|Worked as an AI Researcher for a semiconductor smart factory|
+|2018.08 - 2019.07|Education|Fast Campus<br>Data Science School|Studied machine learning, NLP, statistics, and programming skills|
+
+<h3 align='center'>🏅 Competitions</h3>
 
 |Date|Name|Organizer|Problem|Prize/Rank|
 |:--:|:--:|:-------:|:-----:|:---:|
@@ -19,7 +27,7 @@
 |2020.11|Big Data Competition 2020|DOUZONE BIZON,</br>National Information Society Agency (NIA)|`Topic 1` Predict sales of the next quarter by using small and medium-sized companies' sales data of 10 previous quarters</br></br>`Topic 2` Classify unlabeled small and medium-sized companies' accounting book summary text data|1st Prize</br></br>([article](https://www.mk.co.kr/news/business/view/2020/11/1131764/))|
 
 </br>
-<h3 align='center'>🛠 Tech Stack 🛠</h3>
+<h3 align='center'>🛠 Tech Stack</h3>
 
 <p align='center' font-weight='bold'> Techs that I've used often.</p>
 <p align='center'>
@@ -42,14 +50,9 @@
 </p>
 </br>
 
-<h3 align="center">📞 Contact Me 📞</h👩</br>
-
-<p align="center">
-  <a href="mailto:dataminegame@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
 
 </br>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">🌡 My Github Status</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dataminegames&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
